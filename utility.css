@@ -1,0 +1,42 @@
+.rounded {
+    border-radius: 5px;
+}
+
+.p1 {
+    padding: 10px;
+    background-color: rgba(30, 30, 30, 0.852);
+}
+
+.img {
+    width: 20px;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.m1 {
+    margin: 10px;
+}
+
+.font {
+    font-size: 1rem;
+}
+
+.para {
+    font-weight: bold;
+}
+
+/* .btn {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    margin-top: 5px;
+} */
+
+.img1 {
+    filter: invert(1);
+    width: 15px;
+}
